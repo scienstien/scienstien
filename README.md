@@ -1,66 +1,44 @@
-## Hi there 👋
+# Chayan | scienstien
 
-<!--
-**scienstien/scienstien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student building at the intersection of aerospace, machine learning, simulation, and full-stack software. I like projects where first-principles physics meets practical tooling: turbomachinery design, propulsion concepts, generative engineering workflows, and ML systems that do something useful outside a notebook.
 
-Here are some ideas to get you started:
+## Current Direction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## About Me
+- Physics-informed simulation and optimization for mechanical and aerospace systems
+- Turbomachinery, propulsion, and computational design workflows
+- Applied machine learning for engineering analysis, retrieval, and automation
+- Full-stack tools that turn technical models into usable products
 
-I’m an engineering student passionate about Aerospace, Machine Learning, Materials Science, Web Dev, and Computational Design.
+## Selected Work
 
-I enjoy building things that combine physics, simulation, and intelligent systems — from turbomachinery and propulsion concepts to neural networks and optimization-driven engineering workflows.
+| Project | What it explores |
+| --- | --- |
+| [BladeLab](https://github.com/scienstien/BladeLab) | Physics-driven turbomachinery design environment with Flask, FastAPI, OpenEnv-style endpoints, tests, and Docker support. |
+| [SchwarzschildGeodesics](https://github.com/scienstien/SchwarzschildGeodesics) | C++/SFML visualization of null geodesics around a Schwarzschild black hole for gravitational-lensing intuition. |
+| [Rag-Application](https://github.com/scienstien/Rag-Application) | Streamlit and LangChain RAG app experimenting with local and cloud retrieval pipelines. |
+| [Microjet Project](https://github.com/scienstien/Microjet_project) | Aerospace-oriented microjet and propulsion design work. |
 
-Currently exploring:
+## Tooling I Reach For
 
-* Web applications and robust backend implementation
-* Generative Design for Mechanical Systems
-* Rocket Propulsion and Turbomachinery
-* Physics-informed Simulation Systems
-* Machine Learning and Deep Learning
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=44B78B" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+</p>
 
-## Tech Stack
+- Simulation and engineering: numerical methods, CAD, generative design, turbomachinery analysis
+- ML and AI: PyTorch, retrieval pipelines, physics-informed systems, optimization loops
+- Web and APIs: TypeScript, Python backends, FastAPI, Django, Streamlit
+- Build habits: tests where behavior matters, readable interfaces, reproducible environments
 
-* Python
-* C++, C#
-* PyTorch
-* Django
-* MATLAB
-* CAD & Engineering Design
-* Numerical Simulation
-* TypeScript
-* HTML, CSS3
+## What I Care About
 
-## Current Focus
-
-* Aerospace engineering projects
-* ML systems with real engineering applications
-* Physics-driven generative design pipelines
-* Research internships in AI + Engineering
-
-## Projects
-
-Some things I work on:
-* Web applications
-* Turbomachinery Meanline Analysis
-* Physics-Based Generative Design Systems
-
-## Philosophy
-
-Build useful things.
-Understand first principles.
-Avoid fake productivity.
-Stay dangerous.
+Understand the physics. Build the tool. Test the assumptions. Keep the interface simple enough that the hard part can actually be used.
 
 ## Connect
 
-GitHub: [githubscienstien](https://github.com/scienstien)
+- GitHub: [@scienstien](https://github.com/scienstien)
