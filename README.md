@@ -1,10 +1,19 @@
 # Chayan | scienstien
 
-<p align="center">
-  <img src="assets/develop-app.gif" alt="Do you want to develop an app?" width="520" />
-</p>
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
 Full-stack engineer and engineering student building web products, AI tools, and simulation-driven systems. My work sits where practical software meets hard technical domains: React/Next.js interfaces, Python backends, realtime AI integrations, aerospace design tools, and physics-heavy visualizations.
+
+I like the part where an idea is still messy: a sketch, a model, a broken prototype, a terminal full of errors. Then the fun begins: shape the interface, wire the backend, test the physics, tune the model, and keep pushing until it becomes something people can actually use.
+
+  </td>
+  <td width="40%" align="center" valign="middle">
+    <img src="assets/programmer-coding.gif" alt="Coding in progress" width="320" />
+  </td>
+  </tr>
+</table>
 
 ## Current Direction
 
