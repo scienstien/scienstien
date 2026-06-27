@@ -1,6 +1,6 @@
 # Chayan | scienstien
 
-Engineering student building across full-stack web development, applied AI, aerospace systems, and simulation. I like turning technical ideas into usable software: interactive interfaces, API-backed products, ML tools, physics simulations, and engineering workflows that people can actually run.
+Full-stack developer and engineering student building web products, AI tools, and simulation-driven systems. My work sits where practical software meets hard technical domains: React/Next.js interfaces, Python backends, realtime AI integrations, aerospace design tools, and physics-heavy visualizations.
 
 ## Current Direction
 
