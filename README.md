@@ -1,15 +1,25 @@
 # Chayan | scienstien
 
-Engineering student building at the intersection of aerospace, machine learning, simulation, and full-stack software. I like projects where first-principles physics meets practical tooling: turbomachinery design, propulsion concepts, generative engineering workflows, and ML systems that do something useful outside a notebook.
+Engineering student building across full-stack web development, applied AI, aerospace systems, and simulation. I like turning technical ideas into usable software: interactive interfaces, API-backed products, ML tools, physics simulations, and engineering workflows that people can actually run.
 
 ## Current Direction
 
-- Physics-informed simulation and optimization for mechanical and aerospace systems
+- Full-stack web apps with React, Next.js, TypeScript, Python APIs, auth, and databases
+- Interactive frontend work: clean UI, motion, 3D web experiences, and data visualization
+- Applied AI systems: RAG, local inference, realtime model integration, and automation
+- Physics-informed simulation and optimization for aerospace and mechanical systems
 - Turbomachinery, propulsion, and computational design workflows
-- Applied machine learning for engineering analysis, retrieval, and automation
-- Full-stack tools that turn technical models into usable products
 
-## Selected Work
+## Web Development Work
+
+| Project | What it shows |
+| --- | --- |
+| [Orbit Website 26](https://github.com/scienstien/orbit-website-26) | Next.js App Router site using React 19, TypeScript, Tailwind, Prisma/Postgres, auth, Zod, and modern tooling. |
+| [Nano Website](https://github.com/scienstien/Nano_website) | React + TypeScript + Vite frontend with Three.js, React Three Fiber, Drei, Framer Motion, and polished interactive UI work. |
+| [DataByte WebDev Task](https://github.com/scienstien/databyte_webdev_task) | Browser-based AI integration task with FastAPI, WebSockets, local ONNX inference, and a live frontend prediction flow. |
+| [CS Minor Project](https://github.com/scienstien/cs-minor-project) | React/TypeScript pathfinding and DSA visualizer with Tailwind and interactive algorithm UI. |
+
+## Engineering + AI Work
 
 | Project | What it explores |
 | --- | --- |
@@ -21,23 +31,28 @@ Engineering student building at the intersection of aerospace, machine learning,
 ## Tooling I Reach For
 
 <p align="left">
-  <img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img alt="React" src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=44B78B" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=2D3748" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
 </p>
 
-- Simulation and engineering: numerical methods, CAD, generative design, turbomachinery analysis
-- ML and AI: PyTorch, retrieval pipelines, physics-informed systems, optimization loops
-- Web and APIs: TypeScript, Python backends, FastAPI, Django, Streamlit
-- Build habits: tests where behavior matters, readable interfaces, reproducible environments
+- Frontend: React, Next.js, TypeScript, Vite, Tailwind, Framer Motion, Three.js
+- Backend: FastAPI, Django, Python APIs, WebSockets, auth flows, database-backed apps
+- Data and AI: PyTorch, ONNX Runtime, LangChain, RAG, local inference, model-serving flows
+- Engineering: numerical methods, CAD, generative design, turbomachinery analysis
+- Build habits: clean interfaces, reproducible setup, tested behavior, readable project structure
 
 ## What I Care About
 
-Understand the physics. Build the tool. Test the assumptions. Keep the interface simple enough that the hard part can actually be used.
+Good software should make hard ideas easier to use. Whether it is a web app, an AI workflow, or a physics simulation, I care about clear interfaces, first-principles thinking, and building things that survive contact with real users.
 
 ## Connect
 
